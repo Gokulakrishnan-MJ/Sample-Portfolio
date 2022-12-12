@@ -42,7 +42,7 @@ const ProjectContainer = () => {
   return (
     <Element className='projectContainer' id="projects">
       <h1>Projects</h1>
-      <p>Here Some of the projects which i have done</p>
+      <p>Here Some Of the projects to take a look</p>
       <div className='projectsContainer__projects'>
         {
           projects.map((project,index)=>{
