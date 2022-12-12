@@ -1,0 +1,25 @@
+.experience{
+    display: flex;
+    flex-direction: column;
+    border: 2px dotted white;
+    border-radius: 10px;
+    width: 200px;
+    height: 150px ;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    overflow: hidden;
+}
+.experience>p{
+    
+    font-family: "MontSerrat",sans-serif;
+    font: 16px solid ;
+    letter-spacing: 1px;
+    color: aliceblue ;
+}
+.experience >h1{
+    font: 25px solid;
+    font-family: "MontSerrat",sans-serif;
+    color: aliceblue;
+    
+}

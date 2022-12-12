@@ -1,0 +1,70 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;600&display=swap'); 
+
+ .topContent{
+    color:white;
+    position: relative;
+
+ }
+
+ .topContent__container{
+   position: absolute;
+   top: 350px;
+   right:20px;
+   
+ }
+ .topContent__container > p{
+   letter-spacing: 1px;
+   text-align: left;
+   padding-left: 3px;
+   padding-top: 09px;
+ }
+
+ .topContent__container > a > button{
+margin-top: 30px;
+text-align: left;
+margin-left: 5px;
+border: none;
+border-radius: 2px;
+outline: none;
+ }
+
+ .topContent__container > h1 {
+   font-size: 40px;
+   font-family: "Montserserifrat",sans-;
+ }
+ 
+ 
+.topContent__downloadBUtton{
+  color:#EEEEEE;
+  background-color: #FF1E1E;
+  font-size: 14px;
+  padding: 10px 30px;
+  font-family:"Montserserifrat",sans-serif ;
+  font-weight: 300;
+  cursor: pointer;
+  margin-right: 20px;
+  
+} 
+
+.topContent__downloadBUtton:hover{
+  color: #FF1E1E;
+  background-color: #EEEEEE;
+  font-weight: 600;
+}
+
+.topContent__workButton{
+  color:#EEEEEE;
+  border: 1px solid #EEEEEE !important;
+  background-color: transparent;
+  font-family:"Montserserifrat",sans-serif ;
+  font-size: 14px;
+  padding:9px 45px ;
+  font-weight: 300;
+  cursor: pointer;
+}
+.topContent__workButton:hover{
+  color: black;
+  border-color: #EEEEEE;
+  font-weight: 600;
+
+}
