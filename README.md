@@ -1,3 +1,3 @@
 # Portfolio
+Sample Portfolio Using React.js
 
-sample code created while learning react
